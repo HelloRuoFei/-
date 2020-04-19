@@ -1,0 +1,16 @@
+package com.snow.bus.mapper;
+
+import com.snow.bus.entity.Customer;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+
+/**
+ * <p>
+ *  Mapper 接口
+ * </p>
+ *
+ * @author snow
+ * @since 2019-12-28
+ */
+public interface CustomerMapper extends BaseMapper<Customer> {
+
+}

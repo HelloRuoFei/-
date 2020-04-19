@@ -1,0 +1,16 @@
+package com.snow.bus.mapper;
+
+import com.snow.bus.entity.Inport;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+
+/**
+ * <p>
+ *  Mapper 接口
+ * </p>
+ *
+ * @author snow
+ * @since 2019-12-30
+ */
+public interface InportMapper extends BaseMapper<Inport> {
+
+}
